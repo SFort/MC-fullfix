@@ -1,8 +1,4 @@
 Server-side
-# MC- QuickFix: No Mend
+# MC- QuickFix: Full Fix
 Mostly a 5min throw away mod that fixes something that bothers me  
-that being mending it's overpowered as hell  
-- nomend: disabled mending from working
-- nomendtrade: disabled villigers from getting the mending trade
-
-(the mods can be used with eachother)
+that being anvils they don't repair enough
